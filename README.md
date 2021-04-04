@@ -5,3 +5,11 @@ The user is able to go into each time slot/row, and fill in specific tasks/sched
 Their input is stored on localstorage. 
 Ultimately, this application allows for refreshing of the page, and no user input is lost. 
 
+Live site: 
+https://graysonbloskas.github.io/daily-planner/
+
+Git hub link:
+https://github.com/graysonbloskas/daily-planner
+
+### Screen shot of the site
+![screencapture-graysonbloskas-github-io-daily-planner-2021-04-03-22_14_40](https://user-images.githubusercontent.com/79467387/113496672-039f2c80-94ca-11eb-913f-02ba4d229bb7.png)
