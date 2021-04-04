@@ -1,0 +1,2 @@
+step 1: add current date to header using moment()
+step 2: Use columns in bootstrap to create the schedule (comlumns and rows) (3 columns)

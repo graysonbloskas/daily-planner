@@ -7,6 +7,7 @@ body {
 textarea {
   background: transparent;
   border: none;
+  font-size: large;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
@@ -16,11 +17,17 @@ textarea {
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: #06aed5;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
 
+#currentDay {
+  color: #000000;
+}
+.lead {
+  color: #ff6961;
+}
 .description {
   white-space: pre-wrap;
 }
